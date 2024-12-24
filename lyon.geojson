@@ -1,1 +1,135 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Ville":"Lyon"},"geometry":{"coordinates":[[[4.734831369812468,45.82562788023432],[4.734831369812468,45.65133270965353],[4.947999945624218,45.65133270965353],[4.947999945624218,45.82562788023432],[4.734831369812468,45.82562788023432]]],"type":"Polygon"},"id":69}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 300,
+        "Date": "2024-01-01T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8357, 45.7640]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 350,
+        "Date": "2024-01-02T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8457, 45.7650]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 280,
+        "Date": "2024-01-03T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8657, 45.7660]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 320,
+        "Date": "2024-01-04T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8757, 45.7670]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 330,
+        "Date": "2024-01-05T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8857, 45.7680]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 295,
+        "Date": "2024-01-06T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8957, 45.7690]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 310,
+        "Date": "2024-01-07T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9057, 45.7700]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 340,
+        "Date": "2024-01-08T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9157, 45.7710]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 265,
+        "Date": "2024-01-09T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9257, 45.7720]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ville": "Lyon",
+        "Consommation_Hydrogene": 300,
+        "Date": "2024-01-10T00:00:00Z",
+        "Unite": "kg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9357, 45.7730]
+      }
+    }
+  ]
+}
